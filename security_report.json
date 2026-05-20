@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-05-20 15:09:57.344169",
+    "password_length": 70,
+    "strength": "MILITARY GRADE",
+    "security_score": 11,
+    "entropy_bits": 458.82,
+    "estimated_crack_time": "41665442987693158044327166564443822057814701487555643756482089698089725729687890215133024311489126680772518971703296.00 millennia",
+    "feedback": [],
+    "hashes": {
+        "MD5": "a55271a405737d6e0cbb128e60ed6cb4",
+        "SHA1": "fd1a0f29e9e755d67b2c8eb3a4832e897fa69b28",
+        "SHA256": "d730210b4232b688f8d40c292be902db1b8e94a43b2a8bf37820d9cd86ac2fa9",
+        "SHA512": "17c4972c60b994a9d828c43fd7a44ee3a94a75247c933e829b27f22efb04ebf4a2e7235e4737c292a8d1926b854c1b0f03b27b20a19373f9faf4e0e3b7a3c931"
+    }
+}
